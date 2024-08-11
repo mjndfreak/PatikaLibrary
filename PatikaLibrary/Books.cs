@@ -34,3 +34,9 @@ public class Books
     }
     
 }
+
+
+// class içinden obje oluşturabileceğim ortak özellikleri barından nesne grubunu temsil eder.
+//Property bir class objesinin alabileceği özellikleri ifade eder.
+// New, bir classtan yeni bi nesne oluşturmaktır.
+// Constructor bir classtan nesne oluşturulduğunda otomatik olarak çalıştırılan metodlardır. Çağırılmadan yeni bir nesne oluşturulduğunda kendiliğinden çalışır.
